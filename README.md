@@ -30,11 +30,11 @@ Arduino (UNO or compatible)
 
 Pixy2 Camera
 
-2× Continuous rotation servos (drive motors)
+3x Vex Servo Motors
 
-1× Servo motor (putting/striking mechanism)
+External Power Supply (6x AA Batteries)
 
-External power source (recommended for servos)
+Vex Robotics Kit
 
 🧠 How It Works
 
