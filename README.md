@@ -6,8 +6,11 @@ Golf-BOT is an Arduino-based autonomous robot that locates, tracks, approaches, 
 
 📸 Demo Video
 
+Video #1: 
+https://drive.google.com/file/d/1pFJkDqQQc59rjWfJwUSvCaVInL8ACEIz/view?usp=sharing
 
-Video: [Insert GitHub/YouTube link]
+Video #2: 
+https://drive.google.com/file/d/1mrCYS8novTV8ScCD3sQgaekj74rZ9VeW/view?usp=sharing
 
 ⚙️ Features
 
