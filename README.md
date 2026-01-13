@@ -94,6 +94,9 @@ Continuous rotation servos may need calibration for true “stop” values
 
 Performance improves with consistent lighting and a high-contrast ball color
 
+See PixyCam documentation for instructions on how to set signatures and write code
+  -[https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:arduino_api]
+
 👤 Author
 
 Dylan Venditti
